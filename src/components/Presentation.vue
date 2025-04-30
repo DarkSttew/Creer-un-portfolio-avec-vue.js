@@ -16,7 +16,7 @@
         <div class="presentation">
             <div class="presentation__text">
                 <TitreNiveau2>Présentation</TitreNiveau2>
-                <p>Je suis Mickaël Lesseline, passionné par le développement web. Je suis un développeur web débutant avec une forte motivation et un grand intérêt pour le back end. <br>
+                <p>Je suis Mickaël Lesseline, passionné par le développement web. Je suis un développeur web débutant avec une forte motivation et un grand intérêt pour le front end. <br>
                     Malgré mon expérience récente, j'ai acquis de solides compétences en HTML, CSS, JavaScript et j'ai déjà réalisé plusieurs projets personnels qui me permettent de mettre en avant mes capacités. <br>
                     Dans ce portfolio, vous découvrirez quelques exemples de mes réalisations, qui illustrent ma passion pour le développement web et mon aptitude à apprendre rapidement. <br>
                     Je suis impatient de discuter de vos besoins et de découvrir comment je peux vous aider à concrétiser vos projets web. N'hésitez pas à me contacter pour toute question ou pour en savoir plus sur mes réalisations.</p>
@@ -66,8 +66,8 @@
     }
 
     img {
-        width: 25%;
-        height: 25%;
+        width: 10%;
+        height: 10%;
         border-radius: 50%;
         box-shadow: -4px 5px 25px #060640;
     }
